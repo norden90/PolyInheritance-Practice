@@ -1,0 +1,30 @@
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.exe
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.deps.json
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.runtimeconfig.json
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.pdb
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.csproj.AssemblyReference.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.AssemblyInfoInputs.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.AssemblyInfo.cs
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.csproj.CoreCompileInputs.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\refint\Polymorph och Arv.dll
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.pdb
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.genruntimeconfig.cache
+C:\Users\nordf\OneDrive\Skrivbord\GitHub\OOP-and-Class\OOP and Class demo\Polymorph och Arv\obj\Debug\net6.0\ref\Polymorph och Arv.dll
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.exe
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.deps.json
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.runtimeconfig.json
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.dll
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\bin\Debug\net6.0\Polymorph och Arv.pdb
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.csproj.AssemblyReference.cache
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.AssemblyInfoInputs.cache
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.AssemblyInfo.cs
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.csproj.CoreCompileInputs.cache
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.dll
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\refint\Polymorph och Arv.dll
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.pdb
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\Polymorph och Arv.genruntimeconfig.cache
+C:\Users\hughmungus\OneDrive\Skrivbord\GitHub\OOP-and-Class\Polymorph och Arv\obj\Debug\net6.0\ref\Polymorph och Arv.dll
